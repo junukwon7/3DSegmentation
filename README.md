@@ -1,5 +1,8 @@
 # 3DSegmentation
 An C++-based STL Segmentation Program Using Quantization or BFS
+
+2019년, 경기과학고등학교 1학년 기초R&E연구
+
 # Original
 scanned by 3dsystems scanner
 
